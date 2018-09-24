@@ -1,4 +1,4 @@
-# arduino-remote-dht22-sensor
+# arduino-remote-PIR-sensor
 This programm can be used as a sensor node for a domoticz server. With a Arduino Nano and
 a 433 MHz transmitter a cheap PIR sensor can be fabricated.
 This project is part of a Minor Domotica at the Hogeschool Utrecht.
